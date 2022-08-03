@@ -1,0 +1,8 @@
+Origin: Alexander's Repo
+Label: Alexander's Repo
+Suite: stable 
+Version: 1.0 
+Codename: Alexanderrepo 
+Architectures: iphoneos-arm 
+Components: main 
+Description: Alexander's Cydia Repository
