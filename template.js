@@ -57,14 +57,14 @@ var template = '\
 \
  \
 <nav class="tp-dync"><br> \
-	<a href="/cydia/index.html">Home</a><br><br> \
-	<a href="/cydia/projects.html">Projects</a><br><br> \
-	<a href="/cydia/repo/">Cydia repo</a><br><br> \
-	<a href="/cydia/placeholder 1.html">Placeholder 1</a><br><br> \
-	<a href="/cydia/placeholder 2.html">Placeholder 2</a><br><br> \
-	<a href="/cydia/placeholder 3.html">Placeholder 3</a><br><br> \
-	<a href="/cydia/placeholder 4.html">Placeholder 4</a><br><br> \
-    <a href="/cydia/placeholder 5.html">Placeholder 5</a><br><br> \
+	<a href="index.html">Home</a><br><br> \
+	<a href="projects.html">Projects</a><br><br> \
+	<a href="/repo/">Cydia repo</a><br><br> \
+	<a href="placeholder 1.html">Placeholder 1</a><br><br> \
+	<a href="placeholder 2.html">Placeholder 2</a><br><br> \
+	<a href="placeholder 3.html">Placeholder 3</a><br><br> \
+	<a href="placeholder 4.html">Placeholder 4</a><br><br> \
+    <a href="placeholder 5.html">Placeholder 5</a><br><br> \
 	<a href="https://github.com/AlexanderGates-iOS" target="_blank">Github</a><br><br> \
 </nav> \
 <aside class="tp-dync"> \
