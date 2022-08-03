@@ -3,7 +3,7 @@ Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: Muirey03
 Depends: mobilesubstrate
-Filename: /cydia/repo/debs/libmryipc.deb
+Filename: /repo/debs/libmryipc.deb
 MD5sum: D1A236BBABF96EFFD018161DF06DEF8D
 SHA1: 9433E3C416A25E30431EAD2FDF298BB0EA6DF872
 SHA256: 76FA3736F20E5939704E705BE043C94C201649CA3B6DB6DCF24A88C6CCE9840A
@@ -18,7 +18,7 @@ Version: 0.9.0
 Architecture: iphoneos-arm
 Maintainer: Janshai
 Depends: mobilesubstrate (>= 0.9.5000), com.muirey03.libmryipc
-Filename: /cydia/repo/debs/libsmserver_0.9.0.deb
+Filename: /repo/debs/libsmserver_0.9.0.deb
 MD5sum: 2FD6806F32B5D5044F703F10887A865C
 SHA1: AC4C6CE2129F71EC1390801AB0508020AD6A5B46
 SHA256: C63E2448464296ED7FD174B964A446BA346C3FBD1C8AA43B86025158586D266C
@@ -33,7 +33,7 @@ Architecture: iphoneos-arm
 Maintainer: Ian Welker <contact@ianwelker.com>
 Installed-Size: 5940
 Depends: openssl, com.muirey03.libmryipc
-Filename: /cydia/repo/debs/SMServer_0.8.0.deb 
+Filename: /repo/debs/SMServer_0.8.0.deb 
 MD5sum: 0491AE72B553B48D7CA6183093A7B398
 SHA1: 5E9D4B8EFCC5C022E6BC3B428914BE2EE4786BAE
 SHA256: 8F703546F8417F0B7D9DB0AA2553C9AC48786A5F6F9102E970A8BC0B4AC44864

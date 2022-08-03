@@ -2,7 +2,7 @@
 <div id="content">
 This is my Cydia repo.<br>
 Feel free to add it to your list! Maybe some awesome stuff waits for you here ;)<br><br>
-<a href="cydia://url/https://cydia.saurik.com/api/share#?source=http://alexandergates-ios.github.io/cydia/repo/"><b>Open Cydia for me!</b></a><span id="ocy"></span><br><br>
+<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://alexander.github.io/repo/"><b>Open Cydia for me!</b></a><span id="ocy"></span><br><br>
 <hr>
 <h4>These are the packages on this repo</h4>
 <div id="samples" style="width:100%"></div>
@@ -120,7 +120,7 @@ xhr.onreadystatechange = function() {
 			pack.Name + ' (' + pack.Version + ')</a><br>' +
 			'<div id="u_' + pack.Package + '" style="display:none;">' +
 			'&nbsp;&nbsp;' + pack.Description + '<br>' +
-			(is_ios ? '&nbsp;&nbsp;<a href="' +  'cydia://url/https://cydia.saurik.com/api/share#?source=http://alexandergates-ios.github.io/cydia/&package=' + pack.Package + '" target="_blank">Show in Cydia.</a><br>' : '') +
+			(is_ios ? '&nbsp;&nbsp;<a href="' +  'cydia://url/https://cydia.saurik.com/api/share#?source=http://alexander.github.io/repo/&package=' + pack.Package + '" target="_blank">Show in Cydia.</a><br>' : '') +
 			'&nbsp;&nbsp;<a href="' + pack.Depiction + '" target="_blank">Show more info.</a><br>' +
 			'&nbsp;&nbsp;<a href="' + pack.Filename + '" target="_blank">Download the .deb package.</a><br><br>' +
 			'</div>';
@@ -133,7 +133,7 @@ xhr.send();
 </div>
 
 <!-- include this where you want the standard design template from here... -->
-<script type="text/javascript" src="/cydia/template.js"></script>
+<script type="text/javascript" src="../template.js"></script>
 <noscript>
 As this website uses JavaScript to generate a semi-dynamically created page, you need to activate JavaScript!
 </noscript>

@@ -26,7 +26,7 @@ var template = ' \
 <hr> \
 <h3><a href="https://twitter.com/AlexanderGates/" target="_blank">Me on Twitter: AlexanderGates</a><br> \
 <a href="https://github.com/AlexanderGates-iOS/" target="_blank">Me on Github: AlexanderGates-iOS</a><br> \
-<a href="http://alexandergates-ios.github.io/cydia/" target="_blank">My Website</a></h3> \
+<a href="http://alexander.github.io/" target="_blank">My Website</a></h3> \
 </td> \
 \
 </tr> \
