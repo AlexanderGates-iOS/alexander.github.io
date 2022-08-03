@@ -45,26 +45,26 @@ var template = '\
 	<meta name="robots" content="index,follow"> \
 	<meta http-equiv="cache-control" content="Public|Private"> \
 	<title>'+title+'</title> \
-	<link rel="stylesheet" href="/cydia/styles.css"></style> \
+	<link rel="stylesheet" href="/styles.css"></style> \
 </head> \
 <body class="tp-dync2"> \
 \
 <header class="tp-dync" align="center" style="background-color:#77ffff; font-family: serif; width:100%;"> \
 	<h1>Alexander\'s page</h1> \
-	"A different kind of magic." \
+	"A different kind of derp." \
 </header> \
  \
 \
  \
 <nav class="tp-dync"><br> \
-	<a href="index.html">Home</a><br><br> \
-	<a href="projects.html">Projects</a><br><br> \
+	<a href="/index.html">Home</a><br><br> \
+	<a href="/projects.html">Projects</a><br><br> \
 	<a href="/repo/">Cydia repo</a><br><br> \
-	<a href="placeholder 1.html">Placeholder 1</a><br><br> \
-	<a href="placeholder 2.html">Placeholder 2</a><br><br> \
-	<a href="placeholder 3.html">Placeholder 3</a><br><br> \
-	<a href="placeholder 4.html">Placeholder 4</a><br><br> \
-    <a href="placeholder 5.html">Placeholder 5</a><br><br> \
+	<a href="/placeholder 1.html">Placeholder 1</a><br><br> \
+	<a href="/placeholder 2.html">Placeholder 2</a><br><br> \
+	<a href="/placeholder 3.html">Placeholder 3</a><br><br> \
+	<a href="/placeholder 4.html">Placeholder 4</a><br><br> \
+    <a href="/placeholder 5.html">Placeholder 5</a><br><br> \
 	<a href="https://github.com/AlexanderGates-iOS" target="_blank">Github</a><br><br> \
 </nav> \
 <aside class="tp-dync"> \
@@ -73,7 +73,7 @@ var template = '\
 	--- Noticed how the website colors change during the day? ---<br> \
 	--- Repo page now shows the Packages on the repo (HTML5). ---<br> \
 \
-	<h4>Clicks</h4><iframe src="/cydia/counter.html" seamless="seamless" frameborder="0" style="width:125px; height:56px;"></iframe> \
+	<h4>Clicks</h4><iframe src="/counter.html" seamless="seamless" frameborder="0" style="width:125px; height:56px;"></iframe> \
 </aside> \
 \
 <section class="tp-dync2"><br> \
