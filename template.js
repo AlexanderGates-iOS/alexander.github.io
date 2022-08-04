@@ -57,14 +57,14 @@ var template = '\
 \
  \
 <nav class="tp-dync"><br> \
-	<a href="/alexander.github.io/index.html">Home</a><br><br> \
-	<a href="/alexander.github.io/projects.html">Projects</a><br><br> \
-	<a href="/alexander.github.io/repo/">Cydia repo</a><br><br> \
-	<a href="/alexander.github.io/placeholder 1.html">Placeholder 1</a><br><br> \
-	<a href="/alexander.github.io/placeholder 2.html">Placeholder 2</a><br><br> \
-	<a href="/alexander.github.io/placeholder 3.html">Placeholder 3</a><br><br> \
-	<a href="/alexander.github.io/placeholder 4.html">Placeholder 4</a><br><br> \
-    <a href="/alexander.github.io/placeholder 5.html">Placeholder 5</a><br><br> \
+	<a href="/index.html">Home</a><br><br> \
+	<a href="/projects.html">Projects</a><br><br> \
+	<a href="/repo/">Cydia repo</a><br><br> \
+	<a href="/placeholder1.html">Placeholder 1</a><br><br> \
+	<a href="/placeholder2.html">Placeholder 2</a><br><br> \
+	<a href="/placeholder3.html">Placeholder 3</a><br><br> \
+	<a href="/placeholder4.html">Placeholder 4</a><br><br> \
+    <a href="/placeholder5.html">Placeholder 5</a><br><br> \
 	<a href="https://github.com/AlexanderGates-iOS" target="_blank">Github</a><br><br> \
 </nav> \
 <aside class="tp-dync"> \
