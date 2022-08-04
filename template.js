@@ -49,7 +49,7 @@ var template = '\
 </head> \
 <body class="tp-dync2"> \
 \
-<header class="tp-dync" align="center" style="background-color:#1d1e22; font-family: serif; width:100%;"> \
+<header class="tp-dync" align="center" style="background-color:#7f7f7f; font-family: serif; width:100%;"> \
 	<h1>Alexander\'s page</h1> \
 	"A different kind of derp." \
 </header> \
@@ -93,7 +93,7 @@ function makeWarm() {
 
   elements = document.getElementsByClassName('tp-dync2');
   for (var c = 0; c < elements.length; ++c) {
-    elements[c].style.backgroundColor = "rgb(".concat("29,", parseInt(256-(256-120)*Math.exp(-0.02*iwarm)), "30,", parseInt(256-(256-0)*Math.exp(-0.02*iwarm)), "34)"); //Get your favorite color picker and set the first constant after "265-" to the green color and the second to the blue color. Every color from yellow over red to magenta is allowed.
+    elements[c].style.backgroundColor = "rgb(".concat("127,", parseInt(256-(256-120)*Math.exp(-0.02*iwarm)), "127,", parseInt(256-(256-0)*Math.exp(-0.02*iwarm)), "127)"); //Get your favorite color picker and set the first constant after "265-" to the green color and the second to the blue color. Every color from yellow over red to magenta is allowed.
   }
 }
 
