@@ -1,7 +1,7 @@
 
 body {
 	color: #000000;
-	background-color: #FFFFFF;
+	background-color: #1d1e22;
 	font-family: sans-serif;
 }
 
@@ -13,13 +13,13 @@ a:visited {
 }
 
 header {
-  background-color: #77FFFF;
+  background-color: #1d1e22;
   font-family:  serif;
   text-align: center;
 }
 
 nav {
-  background-color: #77FFFF;
+  background-color: #1d1e22;
   float: left;
   max-width: 300px;
   padding: 5px;
@@ -27,7 +27,7 @@ nav {
 
 section {
   text-align: justify;
-  background-color: #FFFFFF;
+  background-color: #1d1e22;
   font-size: 110%;
   float: right top;
   max-width: 750px;
@@ -36,7 +36,7 @@ section {
 }
 
 aside {
-  background-color: #77FFFF;
+  background-color: #1d1e22;
   float: right;
   max-width: 300px;
   padding: 5px;
