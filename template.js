@@ -41,11 +41,11 @@ var template = '\
 <head> \
 	<meta http-equiv="content-type" content="text/html" charset="utf-8"/> \
 	<meta charset="UTF-8"> \
-	<link rel="shortcut icon" href="/Files/AlexIcon.png"> \
+	<link rel="shortcut icon" href="/alexander.github.io/Files/AlexIcon.png"> \
 	<meta name="robots" content="index,follow"> \
 	<meta http-equiv="cache-control" content="Public|Private"> \
 	<title>'+title+'</title> \
-	<link rel="stylesheet" href="/styles.css"></style> \
+	<link rel="stylesheet" href="/alexander.github.io/styles.css"></style> \
 </head> \
 <body class="tp-dync2"> \
 \
@@ -57,14 +57,14 @@ var template = '\
 \
  \
 <nav class="tp-dync"><br> \
-	<a href="/index.html">Home</a><br><br> \
-	<a href="/projects.html">Projects</a><br><br> \
-	<a href="/repo/">Cydia repo</a><br><br> \
-	<a href="/placeholder1.html">Placeholder 1</a><br><br> \
-	<a href="/placeholder2.html">Placeholder 2</a><br><br> \
-	<a href="/placeholder3.html">Placeholder 3</a><br><br> \
-	<a href="/placeholder4.html">Placeholder 4</a><br><br> \
-    <a href="/placeholder5.html">Placeholder 5</a><br><br> \
+	<a href="/alexander.github.io/index.html">Home</a><br><br> \
+	<a href="/alexander.github.io/projects.html">Projects</a><br><br> \
+	<a href="/alexander.github.io/repo/">Cydia repo</a><br><br> \
+	<a href="/alexander.github.io/placeholder1.html">Placeholder 1</a><br><br> \
+	<a href="/alexander.github.io/placeholder2.html">Placeholder 2</a><br><br> \
+	<a href="/alexander.github.io/placeholder3.html">Placeholder 3</a><br><br> \
+	<a href="/alexander.github.io/placeholder4.html">Placeholder 4</a><br><br> \
+    <a href="/alexander.github.io/placeholder5.html">Placeholder 5</a><br><br> \
 	<a href="https://github.com/AlexanderGates-iOS" target="_blank">Github</a><br><br> \
 </nav> \
 <aside class="tp-dync"> \
@@ -73,7 +73,7 @@ var template = '\
 	--- Noticed how the website colors change during the day? ---<br> \
 	--- Repo page now shows the Packages on the repo (HTML5). ---<br> \
 \
-	<h4>Clicks</h4><iframe src="/counter.html" seamless="seamless" frameborder="0" style="width:125px; height:56px;"></iframe> \
+	<h4>Clicks</h4><iframe src="/alexander.github.io/counter.html" seamless="seamless" frameborder="0" style="width:125px; height:56px;"></iframe> \
 </aside> \
 \
 <section class="tp-dync2"><br> \
@@ -109,7 +109,7 @@ function startWinter() {
 
 	for (var i = 0; i < 10; i++) { //Create some random snowflakes
 		var snf = document.createElement('img');
-		snf.setAttribute('src', '/Files/snowflake.svg');
+		snf.setAttribute('src', '/alexander.github.io/Files/snowflake.svg');
 		snf.style.position = 'fixed';
 		snf.style.top = '-30px';
 		snf.style.left = Math.floor(window.innerWidth * Math.random()) + 'px';
@@ -161,7 +161,7 @@ function startAnimation() { //Here, we start our bad stuff.
 
 //Bad, hacky check to see if this browser supports what we do here .~.
 var tte = document.createElement('img');
-tte.setAttribute('src', '/Files/snowflake.svg');
+tte.setAttribute('src', '/alexander.github.io/Files/snowflake.svg');
 tte.style.transition = 'transform 0.1s linear';
 tte.style.width = '0px';
 tte.style.height = '0px';
