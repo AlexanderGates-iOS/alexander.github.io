@@ -10,17 +10,17 @@ var template = ' \
 <!--<meta http-equiv="cache-control" content="no-cache">--> \
 <title>Alexander Gates\' Cydia repo</title> \
 </head> \
-<body text="#000000" link="#404040" alink="#404040" vlink="#404040" style="background:none;"> \
+<body text="#ffffff" link="#404040" alink="#404040" vlink="#404040" style="background:none;"> \
  \
-<div align="center" style="background-color:#c4c4c4"> \
+<div align="center" style="background-color:#7f7f7f"> \
 <h1>Alexander Gates\' Repo</h1> \
 </div> \
  \
-<div align="center" style="background-color:#c4c4c4;"> \
+<div align="center" style="background-color:#7f7f7f;"> \
 <table> \
 <tr style="width:100%"> \
 <td> \
-<div style="text-align: justify; font-size:110%; background-color:#c4c4c4; min-width: 300px; max-width: 700px; vertical-align: top;"><br> \
+<div style="text-align: justify; font-size:110%; background-color:#7f7f7f; min-width: 300px; max-width: 700px; vertical-align: top;"><br> \
 ' + content + '\
 </div> \
 <hr> \
