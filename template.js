@@ -49,7 +49,7 @@ var template = '\
 </head> \
 <body class="tp-dync2"> \
 \
-<header class="tp-dync" align="center" style="background-color:#7f7f7f; font-family: serif; width:100%;"> \
+<header class="tp-dync" align="center" style="background-color:#c4c4c4; font-family: serif; width:100%;"> \
 	<h1>Alexander\'s page</h1> \
 	"A different kind of derp." \
 </header> \
@@ -73,7 +73,8 @@ var template = '\
 	--- Noticed how the website colors change during the day? ---<br> \
 	--- Repo page now shows the Packages on the repo (HTML5). ---<br> \
 \
-	<h4>Clicks</h4><iframe src="/alexander.github.io/counter.html" seamless="seamless" frameborder="0" style="width:140px; height:75px;"></iframe> \
+	<h4>Clicks</h4> \
+		<iframe src="/alexander.github.io/counter.html" seamless="seamless" frameborder="0" style="width:140px; height:75px;"></iframe> \
 </aside> \
 \
 <section class="tp-dync2"><br> \
@@ -93,7 +94,7 @@ function makeWarm() {
 
   elements = document.getElementsByClassName('tp-dync2');
   for (var c = 0; c < elements.length; ++c) {
-    elements[c].style.backgroundColor = (127,127,127);
+    elements[c].style.backgroundColor = (196,196,196);
   }
 }
 
