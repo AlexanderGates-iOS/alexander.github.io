@@ -73,7 +73,7 @@ var template = '\
 	--- Noticed how the website colors change during the day? ---<br> \
 	--- Repo page now shows the Packages on the repo (HTML5). ---<br> \
 \
-	<h4>Clicks</h4><iframe src="/alexander.github.io/counter.html" seamless="seamless" frameborder="0" style="width:125px; height:56px;"></iframe> \
+	<h4>Clicks</h4><iframe src="/alexander.github.io/counter.html" seamless="seamless" frameborder="0" style="width:140px; height:75px;"></iframe> \
 </aside> \
 \
 <section class="tp-dync2"><br> \
