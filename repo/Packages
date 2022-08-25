@@ -42,3 +42,16 @@ Description: Send texts from your browser!
 Author: Ian Welker
 Conflicts: com.janshai.libsmserver, com.twickd.ian-welker.libsmserver
 Name: SMServer
+
+Package: com.serenakit.Santander
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: SerenaKit <https://github.com/SerenaKit/Santander>
+Filename: /alexander.github.io/repo/debs/Santander_1.0.deb 
+MD5sum: 1DD64BEFCA274FC4B0290DD7FAEACD6D
+SHA1: 68B0BE4659B7496DD62921D65B212025643E63C3
+SHA256: 2A1301D75D8AFA17460767DB2091F4654656D855585702086DEEE13FA74E2053
+Section: Multimedia
+Description: A new, enhanced File Manager for iOS devices
+Author: SerenaKit
+Name: Santander
